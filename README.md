@@ -1,7 +1,7 @@
 # PKGBr
-DBGrid personalizado para Lazarus - desenvolvido por: Marcos R. Weimer - Portado por: MARCELO M. GONÇALVES
+DBGrid personalizado para Lazarus - desenvolvido por: Marcos R. Weimer - Portado Para Lazarus por: MARCELO M. GONÇALVES
 
-Pacote de componentes para Delphi
+Pacote de componentes para Delphi / Lazarus
 
 Componentes/Recursos
 
@@ -36,3 +36,5 @@ Para os exemplos funcionarem o componente deve estar instalado
 Contribuições / Sugestões
 
 Qualquer melhoria, incremento, sugestão é bem vinda
+
+repositório original para delphi: https://bitbucket.org/marcosweimer/pkgbr/src/master/
