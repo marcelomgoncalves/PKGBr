@@ -14,11 +14,11 @@
     </CompilerOptions>
     <Files>
       <Item>
-        <Filename Value="Source\uConfigBR.pas"/>
+        <Filename Value="uConfigBR.pas"/>
         <UnitName Value="uConfigBR"/>
       </Item>
       <Item>
-        <Filename Value="Source\uDBGridBR.pas"/>
+        <Filename Value="uDBGridBR.pas"/>
         <HasRegisterProc Value="True"/>
         <UnitName Value="uDBGridBR"/>
       </Item>
